@@ -1,4 +1,4 @@
-# Como-GERAR-PDF-IONIC-5
+# Como GERAR PDF em IONIC 5
 
 Fala Dev!
 Estarei realizando uma live no dia 30/05/2020 as 21:10h onde ensinarei Como GERAR PDF em IONIC 5.
