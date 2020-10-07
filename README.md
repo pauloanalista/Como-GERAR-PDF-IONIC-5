@@ -8,9 +8,15 @@ Bom se você tem interesse em participar da live, acesse o link abaixo e adicion
 
 [Como GERAR PDF em IONIC 5](https://ilovecode.com.br/live-03-como-gerar-pdf-em-ionic-5/)
 
-## Aprenda mais!
+# VEJA TAMBÉM
+## Grupo de Estudo no Telegram
+- [Participe gratuitamente do grupo de estudo](https://t.me/blogilovecode)
+
+## Cursos baratos!
 - [Meus cursos](https://olha.la/udemy)
-- [Blog ILoveCode](https://olha.la/ilovecode)
+
+## Fique ligado, acesse!
+- [Blog ILoveCode](https://ilovecode.com.br)
 
 ## Novidades, cupons de descontos e cursos gratuitos
 https://olha.la/ilovecode-receber-cupons-novidades
